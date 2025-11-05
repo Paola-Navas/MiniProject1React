@@ -1,6 +1,7 @@
 {
   "name": "proyecto",
   "version": "0.1.0",
+  "homepage": "https://brandondiaz18.github.io/Proyecto_Jueves",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
