@@ -17,7 +17,7 @@ function App() {
       {/* HEADER */}
       <header className="header" id="inicio">
         <h1>SERVICIO NACIONAL DE APRENDIZAJE</h1>
-        <h2>CENTRO DE GESTIÓN DE MERCADOS</h2>
+        <h2>CENTRO DE GESTIÓN, MERCADO, LOGISTICA Y TECNOLOGIAS DE LA INFORMACIÓN</h2>
         <h3>BOGOTÁ</h3>
       </header>
       <hr />
